@@ -1,0 +1,12 @@
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\bin\Debug\net5.0\AmigosCore.deps.json
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\bin\Debug\net5.0\AmigosCore.dll
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\bin\Debug\net5.0\ref\AmigosCore.dll
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\bin\Debug\net5.0\AmigosCore.pdb
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.csproj.AssemblyReference.cache
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.AssemblyInfoInputs.cache
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.AssemblyInfo.cs
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.csproj.CoreCompileInputs.cache
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.dll
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\ref\AmigosCore.dll
+C:\.Net\infnet-csharp-2021\AmigosApi\AmigosCore\obj\Debug\net5.0\AmigosCore.pdb
